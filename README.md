@@ -1,27 +1,5 @@
 # 💫 About Me:
-Mechanical Engineer with specialization in Mechatronics Engineering and Systems Design
-
-Experience in Industrial/Product Design with focus on functionality, aesthetics, and user experience
-
-Skilled in robotics and embedded systems using:
-
-ESP32, Nvidia Jetson, Arduino, SMT (Surface-Mount Technology)
-
-Proficient in programming languages:
-
-Python, C++ (including ROS for robotics systems)
-
-Web and mobile development skills:
-
-JavaScript, HTML, CSS
-
-Frameworks: React, React Native
-
-Able to bridge hardware and software to build complete, intelligent systems
-
-Strong prototyping and system integration abilities
-
-Passionate about creating innovative, scalable, and user-centered solutions
+Create More Than You Consume
 
 
 ## 🌐 Socials:
